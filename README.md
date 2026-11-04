@@ -81,7 +81,7 @@ An end-to-end Power BI project analyzing headcount, attrition, attendance, payro
 | File | Description |
 |---|---|
 | `AeroPak HR Workforce Dashboard.pbix` | Power BI file: cleaned data, model, DAX measures and report |
-
+| `Airline_HR_RawData.xlsx` | Raw source data, before cleaning |
 ---
 
 ## 👤 Author
